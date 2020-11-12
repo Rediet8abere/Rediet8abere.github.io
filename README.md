@@ -10,3 +10,14 @@
 - 📫 How to reach me: rediet.gesesse@students.dominican.edu
 - 🌱 Languages and Tools: 
 
+ <div>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+        <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+        <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"></code>
+        <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+        <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Heroku_logo.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    </div>
+⭐️ From [Redi](https://github.com/Rediet8abere)
+
